@@ -3,7 +3,9 @@ body {
     color: #111;
     font: 1em helvetica, arial, sans-serif;
     margin: 2em;
+    text-align: center;
   }
+
   
   
   .products {
@@ -23,6 +25,7 @@ body {
     overflow: hidden;
     box-shadow: 0 0 1em rgba(0,0,0,0.4);
     position: relative;
+    text-align: left;
   }
   
   .product-name {
@@ -51,3 +54,12 @@ body {
     font-size: 2em;
     font-weight: 700;
   }
+
+ 
+    div.logo {
+     max-width: 100%;
+     height: 100%;
+    }
+  
+
+ 

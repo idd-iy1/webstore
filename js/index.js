@@ -5,53 +5,73 @@ const products = [
     colour: `Black`,
     rating: `4/5`,
     size: 15,
-    wireless: `Yes`,
+    wireless: `No`,
     category: `headphones`,
     logo: `img/hyperx.jpg`,
     value: `Best Value!`
   }, {
-    name: `Hyper Base`,
-    price: 300,
+    name: `Base Plus`,
+    price: 375,
     colour: `Black`,
     rating: `4/5`,
     size: 15,
     wireless: `Yes`,
     category: `earphones`,
-    logo: `img/hyperear.jpg`,
+    logo: `/img/ear5.jpg`,
     value: `Amazing Value!`
   }, {
-    name: `Hyper Base`,
-    price: 300,
+    name: `Stacked Base`,
+    price: 199,
     colour: `Black`,
     rating: `4/5`,
     size: 15,
     wireless: `Yes`,
     category: `earphones`,
-    logo: `img/hyperear.jpg`,
+    logo: `/img/ear6.jpg`,
     value: ``
   }, {
-    name: `Hyper Base`,
-    price: 300,
+    name: `Base 3s`,
+    price: 295,
     colour: `Black`,
     rating: `4/5`,
     size: 15,
     wireless: `Yes`,
     category: `headphones`,
-    logo: `img/hyperx.jpg`,
+    logo: `/img/head2.png`,
     value: `Great Value!`
   }, {
-    name: `Hyper Base`,
-    price: 300,
+    name: `Base V`,
+    price: 99,
     colour: `Black`,
+    rating: `4/5`,
+    size: 15,
+    wireless: `No`,
+    category: `earphones`,
+    logo: `/img/ear8.png`,
+    value: `Great Value!`
+  }, {
+    name: `Base Kings`,
+    price: 1200,
+    colour: `Black`,
+    rating: `4/5`,
+    size: 15,
+    wireless: `Yes`,
+    category: `headphones`,
+    logo: `/img/head8.png`,
+    value: `Great Value!`
+  }, {
+    name: `Base Thrill`,
+    price: 1000,
+    colour: `Red`,
     rating: `4/5`,
     size: 15,
     wireless: `Yes`,
     category: `earphones`,
-    logo: `img/hyperear.jpg`,
+    logo: `/img/ear9.jpg`,
     value: `Great Value!`
   }, {
     name: `Hyper Base`,
-    price: 300,
+    price: 1000,
     colour: `Black`,
     rating: `4/5`,
     size: 15,
@@ -61,41 +81,131 @@ const products = [
     value: `Great Value!`
   }, {
     name: `Hyper Base`,
-    price: 300,
+    price: 1000,
     colour: `Black`,
     rating: `4/5`,
     size: 15,
     wireless: `Yes`,
+    category: `headphones`,
+    logo: `img/hyperx.jpg`,
+    value: `Great Value!`
+  }, {
+    name: `Hyper Base`,
+    price: 1000,
+    colour: `Black`,
+    rating: `4/5`,
+    size: 15,
+    wireless: `No`,
     category: `earphones`,
     logo: `img/hyperear.jpg`,
     value: `Great Value!`
-  }, {
+  } 
+  , {
     name: `Hyper Base`,
-    price: 300,
+    price: 1000,
     colour: `Black`,
     rating: `4/5`,
     size: 15,
-    wireless: `Yes`,
-    category: `headphones`,
-    logo: `img/hyperx.jpg`,
+    wireless: `No`,
+    category: `earphones`,
+    logo: `img/hyperear.jpg`,
     value: `Great Value!`
-  }, {
+  } 
+  , {
     name: `Hyper Base`,
-    price: 300,
+    price: 1000,
     colour: `Black`,
     rating: `4/5`,
     size: 15,
-    wireless: `Yes`,
-    category: `headphones`,
-    logo: `img/hyperx.jpg`,
+    wireless: `No`,
+    category: `earphones`,
+    logo: `img/hyperear.jpg`,
     value: `Great Value!`
-  }, {
+  } 
+  , {
     name: `Hyper Base`,
-    price: 300,
+    price: 1000,
     colour: `Black`,
     rating: `4/5`,
     size: 15,
-    wireless: `Yes`,
+    wireless: `No`,
+    category: `earphones`,
+    logo: `img/hyperear.jpg`,
+    value: `Great Value!`
+  } 
+  , {
+    name: `Hyper Base`,
+    price: 1000,
+    colour: `Black`,
+    rating: `4/5`,
+    size: 15,
+    wireless: `No`,
+    category: `earphones`,
+    logo: `img/hyperear.jpg`,
+    value: `Great Value!`
+  } 
+  , {
+    name: `Hyper Base`,
+    price: 1000,
+    colour: `Black`,
+    rating: `4/5`,
+    size: 15,
+    wireless: `No`,
+    category: `earphones`,
+    logo: `img/hyperear.jpg`,
+    value: `Great Value!`
+  } 
+  , {
+    name: `Hyper Base`,
+    price: 1000,
+    colour: `Black`,
+    rating: `4/5`,
+    size: 15,
+    wireless: `No`,
+    category: `earphones`,
+    logo: `img/hyperear.jpg`,
+    value: `Great Value!`
+  } 
+  , {
+    name: `Hyper Base`,
+    price: 1000,
+    colour: `Black`,
+    rating: `4/5`,
+    size: 15,
+    wireless: `No`,
+    category: `earphones`,
+    logo: `img/hyperear.jpg`,
+    value: `Great Value!`
+  } 
+  , {
+    name: `Hyper Base`,
+    price: 1000,
+    colour: `Black`,
+    rating: `4/5`,
+    size: 15,
+    wireless: `No`,
+    category: `earphones`,
+    logo: `img/hyperear.jpg`,
+    value: `Great Value!`
+  } 
+  , {
+    name: `Hyper Base`,
+    price: 1000,
+    colour: `Black`,
+    rating: `4/5`,
+    size: 15,
+    wireless: `No`,
+    category: `earphones`,
+    logo: `img/hyperear.jpg`,
+    value: `Great Value!`
+  } 
+  , {
+    name: `Hyper Base`,
+    price: 1000,
+    colour: `Black`,
+    rating: `4/5`,
+    size: 15,
+    wireless: `No`,
     category: `earphones`,
     logo: `img/hyperear.jpg`,
     value: `Great Value!`
@@ -129,4 +239,9 @@ function renderProducts(arr) {
 
 }
 
-renderProducts(products);
+function lowCostProducts(product){
+  return product.price < 1500;
+}
+
+const arrLowCosties = products.filter(lowCostProducts)
+renderProducts(arrLowCosties);
