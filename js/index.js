@@ -17,7 +17,7 @@ const products = [
     size: 15,
     wireless: `Yes`,
     category: `earphones`,
-    logo: `/img/ear5.jpg`,
+    logo: `img/ear5.jpg`,
     value: `Amazing Value!`
   }, {
     name: `Stacked Base`,
@@ -27,7 +27,7 @@ const products = [
     size: 15,
     wireless: `Yes`,
     category: `earphones`,
-    logo: `/img/ear6.jpg`,
+    logo: `img/ear6.jpg`,
     value: ``
   }, {
     name: `Base 3s`,
@@ -37,7 +37,7 @@ const products = [
     size: 15,
     wireless: `Yes`,
     category: `headphones`,
-    logo: `/img/head2.png`,
+    logo: `img/head2.png`,
     value: `Great Value!`
   }, {
     name: `Base V`,
@@ -47,7 +47,7 @@ const products = [
     size: 15,
     wireless: `No`,
     category: `earphones`,
-    logo: `/img/ear8.png`,
+    logo: `img/ear8.png`,
     value: `Great Value!`
   }, {
     name: `Base Kings`,
@@ -57,7 +57,7 @@ const products = [
     size: 15,
     wireless: `Yes`,
     category: `headphones`,
-    logo: `/img/head8.png`,
+    logo: `img/head8.png`,
     value: `Great Value!`
   }, {
     name: `Base Thrill`,
@@ -67,7 +67,7 @@ const products = [
     size: 15,
     wireless: `Yes`,
     category: `earphones`,
-    logo: `/img/ear9.jpg`,
+    logo: `img/ear9.jpg`,
     value: `Great Value!`
   }, {
     name: `Hyper Base`,
